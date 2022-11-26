@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Greetings from my computer
+=======
+Greetings from GitHub
+>>>>>>> 3b19dbd7c0deea1e6d4e9662a44579632af2610b
 Haluaisin syödä Nocco-energiajuomaa, mutta en saa koska olen raskaana.
 Raskaana oleminen on pyllystä, enkä nauti siitä.
 Miksi mieheni ei voisi olla raskaana minun jälkeeni.
